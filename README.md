@@ -7,7 +7,7 @@
 <div align="center">
  🌍  I'm based in Chennai, India
  
- 🌱 I’m currently learning **Redis**
+ 🌱 I’m currently learning **DevOps**
 
  </div>
  
